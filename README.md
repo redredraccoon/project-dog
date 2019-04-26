@@ -1,4 +1,4 @@
 # project-dog
-graduate project
+graduate project 
 1.python get_features.py  
 2.python pred.py
